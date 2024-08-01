@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Testbench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="119999999999999985fs"></ZoomEndTime>
+      <Cursor1Time time="120000000000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/Testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/H_in1" type="array">
+      <obj_property name="ElementShortName">H_in1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">H_in1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/H_in0" type="array">
+      <obj_property name="ElementShortName">H_in0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">H_in0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/M_in1" type="array">
+      <obj_property name="ElementShortName">M_in1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M_in1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/M_in0" type="array">
+      <obj_property name="ElementShortName">M_in0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M_in0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/LD_time" type="logic">
+      <obj_property name="ElementShortName">LD_time</obj_property>
+      <obj_property name="ObjectShortName">LD_time</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/LD_alarm" type="logic">
+      <obj_property name="ElementShortName">LD_alarm</obj_property>
+      <obj_property name="ObjectShortName">LD_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/STOP_al" type="logic">
+      <obj_property name="ElementShortName">STOP_al</obj_property>
+      <obj_property name="ObjectShortName">STOP_al</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/Alarm" type="logic">
+      <obj_property name="ElementShortName">Alarm</obj_property>
+      <obj_property name="ObjectShortName">Alarm</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/H_out1" type="array">
+      <obj_property name="ElementShortName">H_out1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">H_out1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/H_out0" type="array">
+      <obj_property name="ElementShortName">H_out0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">H_out0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/M_out1" type="array">
+      <obj_property name="ElementShortName">M_out1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M_out1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/M_out0" type="array">
+      <obj_property name="ElementShortName">M_out0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M_out0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/S_out1" type="array">
+      <obj_property name="ElementShortName">S_out1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S_out1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/S_out0" type="array">
+      <obj_property name="ElementShortName">S_out0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S_out0[3:0]</obj_property>
+   </wvobject>
+</wave_config>
